@@ -1,4 +1,4 @@
 ./mvnw clean spring-boot:run: cleans target folder, compiles, and runs your application.
 ./mvnw spring-boot:run: compiles and runs your application.
 ./mvnw package: builds and packages the compiled classes into a JAR file.
-java -jar: runs the JAR file from your CMD.
+java -jar: runs the JAR file (painting\target\painting-0.0.1-SNAPSHOT) from your CMD.
