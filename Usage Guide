@@ -5,3 +5,6 @@ JavaSE 17.
 ./mvnw spring-boot:run: compiles and runs your application.
 ./mvnw package: builds and packages the compiled classes into a JAR file.
 java -jar: runs the JAR file (painting\target\painting-0.0.1-SNAPSHOT) from your CMD.
+---Test---
+Enterr this URL: localhost:9090 to your web browser.
+Try from a mobile device over Wi-Fi (NOTE: On the same network).
